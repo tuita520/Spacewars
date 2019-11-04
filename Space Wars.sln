@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2008
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Networking", "Networking\Networking.csproj", "{3232C5CC-8F00-4734-9B80-8A928D5EE396}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaceWars", "SpaceWars\SpaceWars.csproj", "{77C6DDF7-4F7E-40D9-8F60-43BC5143C343}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientView", "ClientView\ClientView.csproj", "{0C4E91E5-2E02-4AAA-812F-CD92CD071A6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "Server\Server.csproj", "{F4D496C1-9D4D-4F9F-B126-548864EB9D46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vector 2D", "Vector 2D\Vector 2D.csproj", "{D6B74585-69D6-47F1-BEB5-BA18AC69A40F}"
+EndProject
+Global
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3232C5CC-8F00-4734-9B80-8A928D5EE396}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3232C5CC-8F00-4734-9B80-8A928D5EE396}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3232C5CC-8F00-4734-9B80-8A928D5EE396}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3232C5CC-8F00-4734-9B80-8A928D5EE396}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77C6DDF7-4F7E-40D9-8F60-43BC5143C343}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77C6DDF7-4F7E-40D9-8F60-43BC5143C343}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77C6DDF7-4F7E-40D9-8F60-43BC5143C343}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77C6DDF7-4F7E-40D9-8F60-43BC5143C343}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C4E91E5-2E02-4AAA-812F-CD92CD071A6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C4E91E5-2E02-4AAA-812F-CD92CD071A6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C4E91E5-2E02-4AAA-812F-CD92CD071A6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C4E91E5-2E02-4AAA-812F-CD92CD071A6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4D496C1-9D4D-4F9F-B126-548864EB9D46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4D496C1-9D4D-4F9F-B126-548864EB9D46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4D496C1-9D4D-4F9F-B126-548864EB9D46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4D496C1-9D4D-4F9F-B126-548864EB9D46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6B74585-69D6-47F1-BEB5-BA18AC69A40F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6B74585-69D6-47F1-BEB5-BA18AC69A40F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6B74585-69D6-47F1-BEB5-BA18AC69A40F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6B74585-69D6-47F1-BEB5-BA18AC69A40F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E79E3B6-B9E8-425E-B063-C76208889BAF}
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+EndGlobal
