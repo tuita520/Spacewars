@@ -4,5 +4,3 @@ The extra mode has 3 extra features, see if you can figure them out!(pretty easy
 
 
 This is a class project in which we were first given a server.exe and told to make a client that met the specifications. Then guess what? We had to make a server too! We had a lot more wiggle room in the creativity department for the server. I really enjoyed making this modular, it's surprising how much can be done without changing the client. Too many ideas and not enough time to implement them all!
-
-In case your not sure where to look, in any folder just find a .cs file and it will contain code I've written(unless it's assembly or properties stuff).
